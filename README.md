@@ -10,6 +10,6 @@ I design experiences that empower people to work better. That means I wear a lot
 
 
 ## Find me around the web 🌎:
-- Sharing updates on <a href="https://www.linkedin.com/in/codybromley/">LinkedIn</a> 📨💼
+- Sharing updates on <a href="https://www.linkedin.com/in/codybromley/">LinkedIn</a> ✌️💼
 - Collecting badges on Trailhead <a href="https://trailblazer.me/id/codybromley">trailblazer.me/id/codybromley</a> 🏞️☁️
 - Writing things very sporadically on Medium <a href="https://medium.com/@codybrom"> @codybrom</a> 📜✍
