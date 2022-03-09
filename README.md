@@ -1,6 +1,6 @@
 # Hi, I'm Cody 👋👨🏻‍💻
 
-I design experiences that empower people to work better. That means I wear a lot of hats: digital marketer ⚡, martech wrangler 👨‍💻, automation wizard ⚙, cloud CRM champion ☁, content writer ✍, eCommerce specialist 💲, front-end designer 🖌, Zendesk admin 🤓 and so many others.
+I design experiences that empower people to work better. That means I wear a lot of hats: product manager 👷🏻‍♂️, UX champion 🔁, project wrangler 👨‍💻, process wizard ⚙, cloud CRM advocate ☁, content writer ✍, expert beginner 🤓 and so many others.
 
 ## Selected Achievements
 - 2021: Launched my 1st Multi-Language Shopify+ site (9 languages, custom Liquid theme support, custom Ruby script)
