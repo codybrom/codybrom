@@ -1,9 +1,33 @@
-# Hi, I'm Cody 👋👨🏻‍💻
+```md
+cody@github:~$ cat whoami.md
+> Hey, I'm Cody 👋
+*autodidact. creative. technologist.*
+````
 
-I work with teams to build experiences that empower people to work better. That means I wear a lot of hats: product manager 👷🏻‍♂️, UX champion 🔁, AI whisperer 🤖, backlog wrangler 👨‍💻, process wizard ⚙, copywriter ✍, expert beginner 🤓 and so many others.
+```md
+cody@github:~$ echo skills.md
+> I've spent my career collaborating with teams to create experiences that enhance how people work and live.
 
-## Find me around the web 🌎:
-- Making NWS Alerts accessible via <a href="https://wx.watch">WX.Watch</a> ⛈️🚨
-- Microblogging (is that still a word?) over on <a href="https://mstdn.social/@codybrom">Mastodon</a> 🐘📝
-- Sharing other updates on <a href="https://www.linkedin.com/in/codybromley/">LinkedIn</a> ✌️💼
-- Collecting badges on Trailhead <a href="https://trailblazer.me/id/codybromley">trailblazer.me/id/codybromley</a> 🏞️☁️
+🛠 `Builder` – Concept to code.
+🎯 `Product Strategist` – UX + Vision.
+🤖 `AI Enthusiast` – Tech smarter, not harder.
+🌩️ `Process Hacker` – Work smarter, not harder.
+📚 `Storyteller` – Everything is a story.
+🚀 `Learner` – Always.
+```
+
+```md
+cody@github:~$ cat social.md
+> Find me online:
+
+- Making NWS Alerts accessible with [WX.Watch](https://wx.watch) ⛈️🚨
+- Blogging a lot less than I mean to at [b10g.xyz](https://b10g.xyz) 🖊️🕸️
+- Microblogging to the Fediverse on [Threads](https://threads.net/@codybrom) 🧵📝
+  - and also [Mastodon](https://mstdn.social/@codybrom) 🐘📝
+- Technically maintaining a [LinkedIn](https://www.linkedin.com/in/codybromley/) profile 💪💼
+```
+
+```md
+cody@github:~$ cat lastword.md
+> Let's build. 🛠️
+```
