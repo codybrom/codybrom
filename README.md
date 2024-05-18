@@ -5,7 +5,7 @@ cody@github:~$ cat whoami.md
 ````
 
 ```md
-cody@github:~$ echo skills.md
+cody@github:~$ cat skills.md
 > I've spent my career collaborating with teams to create experiences that enhance how people work and live.
 
 🛠 `Builder` – Concept to code.
