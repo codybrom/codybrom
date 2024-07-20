@@ -21,6 +21,7 @@ cody@github:~$ cat social.md
 > Find me online:
 
 - Making NWS Alerts accessible with [WX.Watch](https://wx.watch) ⛈️🚨
+- Building the soccer calendar feed app of my dreams [kickcal.com](https://kickcal.com) ⚽📅
 - Blogging a lot less than I mean to at [b10g.xyz](https://b10g.xyz) 🖊️🕸️
 - Microblogging to the Fediverse on [Threads](https://threads.net/@codybrom) 🧵📝
   - and also [Mastodon](https://mstdn.social/@codybrom) 🐘📝
