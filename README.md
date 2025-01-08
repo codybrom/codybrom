@@ -4,6 +4,7 @@ cody@github:~/about$ git show welcome
 ```
 
 I build things that make life a little better.
+
 Product-focused developer passionate about strategy, human-centered design, and exploring AI.
 
 ### Find me online:
