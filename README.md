@@ -5,17 +5,16 @@ I build thoughtful digital products from Tulsa, OK.
 ## What I'm Currently Shipping
 
 **[Blankie](https://blankie.rest)** - macOS ambient sound mixer for focus  
-Swift/SwiftUI • 2.5k+ downloads • Mac App Store • `brew install --cask blankie`
+Swift/SwiftUI • 2.5k+ downloads • [Mac App Store](https://apps.apple.com/us/app/blankie/id6740096581) • `brew install --cask blankie`
 
 **[WX.Watch](https://wx.watch)** - Weather alerts without the noise  
 Real-time NWS monitoring • Web app + Threads/Mastodon bot
 
-**[kickcal.com](https://kickcal.com)** - USA MNT/WNT calendars that just work  
-Auto-updating schedules • Direct calendar subscriptions
+**[kickcal.com](https://kickcal.com)** - Team USA match calendars that just work
 
 ## Currently
 
-- Product Engineer @ [Prelude](https://goprelude.com)
+- Head of Engineering @ [Prelude](https://goprelude.com)
 - Occasionally writing about product, art & tech at [b10g.xyz](https://b10g.xyz)
 
 ## Let's Build
