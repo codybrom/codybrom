@@ -10,8 +10,6 @@ Swift/SwiftUI • 2.5k+ downloads • [Mac App Store](https://apps.apple.com/us/
 **[WX.Watch](https://wx.watch)** - Weather alerts without the noise  
 Real-time NWS monitoring • Web app + Threads/Mastodon bot
 
-**[kickcal.com](https://kickcal.com)** - Team USA match calendars that just work
-
 ## Currently
 
 - Head of Engineering @ [Prelude](https://goprelude.com)
