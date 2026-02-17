@@ -10,8 +10,8 @@ Swift/SwiftUI • 2.5k+ downloads • [Mac App Store](https://apps.apple.com/us/
 **[WX.Watch](https://wx.watch)** - Real-time NWS weather alerts without the noise  
 Astro/Cloudflare + Supabase + Threads/Mastodon bot • 15k+ monthly users
 
-**[OpenAPI Foreign Data Wrapper](https://fdw.dev/catalog/openapi/)** - Query any REST API as a Postgres table
-Rust/WebAssembly • Open-source contribution to [Supabase Wrappers](https://github.com/supabase/wrappers)
+**[OpenAPI Foreign Data Wrapper](https://fdw.dev/catalog/openapi/)** - Query any REST API as a Postgres table  
+Rust/WebAssembly • Open-source contribution to [Supabase Wrappers](https://github.com/supabase/wrappers)  
 
 ## Currently
 
