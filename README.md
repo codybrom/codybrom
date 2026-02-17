@@ -7,8 +7,11 @@ I build thoughtful digital products from Tulsa, OK.
 **[Blankie](https://blankie.rest)** - macOS ambient sound mixer for focus  
 Swift/SwiftUI • 2.5k+ downloads • [Mac App Store](https://apps.apple.com/us/app/blankie/id6740096581) • `brew install --cask blankie`
 
-**[WX.Watch](https://wx.watch)** - Weather alerts without the noise  
-Real-time NWS monitoring • Web app + Threads/Mastodon bot
+**[WX.Watch](https://wx.watch)** - Real-time NWS weather alerts without the noise  
+Astro/Cloudflare + Supabase + Threads/Mastodon bot • 15k+ monthly users
+
+**[OpenAPI Foreign Data Wrapper](https://fdw.dev/catalog/openapi/)** - Query any REST API as a Postgres table
+Rust/WebAssembly • Open-source contribution to [Supabase Wrappers](https://github.com/supabase/wrappers)
 
 ## Currently
 
